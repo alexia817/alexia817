@@ -1,9 +1,5 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+### Hi there 👋, my name is Alexia Mercedes Rodriguez
+#### I am a junior front-end developer based in Florida. My specializations include CSS, Javascript, React, WordPress, UX/UI design, General AV tech and more.
 
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
